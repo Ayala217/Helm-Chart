@@ -3,12 +3,12 @@ entries:
   microservicio-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-25T17:35:46.030681829Z"
+    created: "2025-02-25T17:38:37.519312193Z"
     description: A Helm chart for Kubernetes
-    digest: 1d4e3858c2737f3d7be4da71d6a6f1d139fea0b59f97bd8eed81b68249d191ed
+    digest: cd0e5e008a2a5aff40cb61b64b76184b43e803e86f37ccd30d766f65a0b7ea12
     name: microservicio-chart
     type: application
     urls:
-    - https://Ayala217.github.io/Helm-Chart/microservicio-chart-0.6.0.tgz
-    version: 0.6.0
-generated: "2025-02-25T17:35:46.029050622Z"
+    - https://Ayala217.github.io/Helm-Chart/microservicio-chart-0.7.0.tgz
+    version: 0.7.0
+generated: "2025-02-25T17:38:37.518888263Z"
